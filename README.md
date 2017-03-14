@@ -2,7 +2,9 @@
 suimple authentication laravel
 
 # Preview
-priview image
+priview halaman admin dengan full Akses
+![Alt text](https://raw.githubusercontent.com/yaqien378/suimpleAuthLaravel/master/preview.jpg "tampilan admin")
+
 
 # Installation
 * clone the repository
